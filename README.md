@@ -1,6 +1,7 @@
-# echarts-three
+# vue-echarts-admin
 
 This template should help get you started developing with Vue 3 in Vite.
+基于 vu3,echarts,element-plus,axios 的工厂环境数据大屏以及后台管理项目
 
 ## Recommended IDE Setup
 
