@@ -2,6 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 基于 vue3,echarts,element-plus,axios 的工厂环境数据大屏以及后台管理项目
+启动会报错以及没有数据，因为后端不是我写的，可以看一下基本布局和大致功能，记得去router文件里面把路由守卫那段代码注释掉
 
 ## Recommended IDE Setup
 
